@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- 🎓 II B.Tech, Computer Science & Engineering — Aditya University (ID: 24B11CS381)
+- 🎓 III B.Tech, Computer Science & Engineering — Aditya University (ID: 24B11CS381)
 - 📍 Rajamahendravaram, Andhra Pradesh
-- 🏫 NXT-Wave Academy Trainee (1+ year)
+- 🏫 NXT-Wave Academy Trainee (2+ years)
 - 💼 Open to **Internships** and **Collaborations**
 
 ---
