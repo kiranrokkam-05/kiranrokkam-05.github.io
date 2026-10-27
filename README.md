@@ -22,13 +22,27 @@
 | Languages | JavaScript, Python, Java, C, SQL |
 | Web / MERN | React.js, Node.js, Express.js, MongoDB |
 | Java | Java Swing, JDBC, MySQL, AWT |
-| Python | ReportLab, python-docx, PyMuPDF |
+| Python / AI | Flask, scikit-learn, XGBoost, PyTorch, Transformers, ReportLab, python-docx, PyMuPDF |
 | DSA | Arrays, Linked Lists, Hashing, Trees |
 | Tools | Git, GitHub, VS Code, Postman |
 
 ---
 
 ## 📂 Featured Projects
+
+### 🔹 Fake News & Misinformation Intelligent System
+> Research prototype that retrieves source passages and uses natural-language inference to assess support or contradiction for a claim. Includes a Flask API and browser UI; results assist investigation and do not prove truth.
+
+`Python` `Flask` `Transformers` `PyTorch` `HTML/CSS/JavaScript`
+
+🔗 [GitHub Repository](https://github.com/kiranrokkam-05/Fake-News-Misinformation-Intelligent-System/tree/version-1)
+
+### 🔹 RiskLens — Intelligent Loan Risk Assessment
+> Educational Flask application that estimates 12-month loan-default risk using Logistic Regression, Random Forest, and XGBoost pipelines. Includes financial feature engineering, train-only SMOTE, and risk-factor explanations; it is not an automated lending decision system.
+
+`Python` `Flask` `scikit-learn` `XGBoost` `SMOTE`
+
+🔗 [GitHub Repository](https://github.com/kiranrokkam-05/Intelligent-Loan-Risk-Assessment-System)
 
 ### 🔹 Student Placement Tracker
 > Full-stack MERN web app for tracking job applications, resume uploads, and email notifications.
